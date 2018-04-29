@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "standard": "11.0.1"
+  },
+  "standard": {
+    "fix": true,
+    "globals": ["NotVue"]
+  }
+}
